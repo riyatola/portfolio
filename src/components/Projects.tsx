@@ -25,7 +25,7 @@ const projects = [
   },
   {
     title: "Velcro Gaming",
-    description: "Velcro Gaming is a platform for buying, selling, renting and swapping video games and in the nearest possible future, a complete social gaming community and Marketplace",
+    description: "Velcro Gaming is a platform for buying, selling, renting and swapping video games and in the nearest possible future, a complete social gaming community and marketplace",
     image: "/Velcro.svg",
     url: "https://www.velcrogaming.com/",
     technologies: ["React.JS", "Python", "MySQL", "jQuery"]
