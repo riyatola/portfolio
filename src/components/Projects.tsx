@@ -11,10 +11,10 @@ const projects = [
   },
   {
     title: "Rotenville Schools",
-    description: "A website for my Mothers School",
+    description: "A website for my Mother's School",
     image: "/Rotenville.jpg",
     url: "https://RotevilleSchools.ng",
-    technologies: ["Next.js", "TypeScript", "DHIS2", "ChartJS"]
+    technologies: ["Next.js", "TypeScript", "React.JS", "TailwindCSS"]
   },
   {
     title: "Mekanico",
