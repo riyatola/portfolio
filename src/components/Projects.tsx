@@ -21,7 +21,7 @@ const projects = [
     description: "Mekanico is an online web platform aimed at transforming how vehicle owners find and review auto-repair professionals.",
     image: "/Mekanico.png",
     url: "https://Mekanico.ng",
-    technologies: ["React", "Node.js", "MongoDB", "C#", "ASP.NET"]
+    technologies: ["React", "Node.js", "MongoDB", "C#"]
   },
   {
     title: "Velcro Gaming",
