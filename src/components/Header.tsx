@@ -9,7 +9,7 @@ export function Header() {
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
         transition={{ duration: 0.5 }}
-        className="w-40 h-40 rounded-full overflow-hidden mb-8 border-4 border-white shadow-sm"
+        className="w-40 h-40 rounded-full overflow-hidden mb-8 border-4 border-white"
       >
         <img
           src="/Head.png"
