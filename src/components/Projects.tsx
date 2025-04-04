@@ -5,15 +5,15 @@ const projects = [
   {
     title: "Base Finance",
     description: "Base is a B2B SaaS solution enabling businesses in Nigeria to seamlessly arrange housing or relocation services for employees.",
-    image: "/logo.png",
-    url: "https://BaseFinance.ng",
+    image: "/Logo.png",
+    url: "https://basefinance.netlify.app/",
     technologies: ["Next.js", "TypeScript", "Supabase", "PostgreSQL"]
   },
   {
     title: "Rotenville Schools",
     description: "A website for my Mother's School",
     image: "/Rotenville.jpg",
-    url: "https://RotevilleSchools.ng",
+    url: "https://rotenville.vercel.app/",
     technologies: ["Next.js", "TypeScript", "React.JS", "TailwindCSS"]
   },
   {
