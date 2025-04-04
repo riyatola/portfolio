@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Base Finance",
     description: "Base is a B2B SaaS solution enabling businesses in Nigeria to seamlessly arrange housing or relocation services for employees.",
-    image: "/logo.png",
+    image: "/logo1.png",
     url: "https://basefinance.netlify.app/",
     technologies: ["Next.js", "TypeScript", "Supabase", "PostgreSQL"]
   },
@@ -17,7 +17,7 @@ const projects = [
     technologies: ["Next.js", "TypeScript", "React.JS", "TailwindCSS"]
   },
   {
-    title: "Mekanico",
+    title: "Mekanico ",
     description: "Mekanico is an online web platform aimed at transforming how vehicle owners find and review auto-repair professionals.",
     image: "/Mekanico.png",
     url: "https://Mekanico.ng",
