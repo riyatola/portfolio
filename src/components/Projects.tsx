@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Base Finance",
     description: "Base is a B2B SaaS solution enabling businesses in Nigeria to seamlessly arrange housing or relocation services for employees.",
-    image: "/Logo.png",
+    image: "/logo.png",
     url: "https://basefinance.netlify.app/",
     technologies: ["Next.js", "TypeScript", "Supabase", "PostgreSQL"]
   },
